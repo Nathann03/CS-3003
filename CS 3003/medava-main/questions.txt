@@ -1,0 +1,16 @@
+Along with the code that you've written, for this assignment please create and submit a file named questions.txt
+(a plain text file) that contains several (the number is up to you) questions you had about Java as we worked through the material above. 
+The list of questions is worth 1/2 of your grade for this assignment. Please make them thoughtful. I will grade them based on how well they 
+reflect your engagement with the material above and the Java language overall. Feel free to include questions you have about OOP, in general, too. 
+To be clear: I do not expect you to know the answer to the questions! In fact, quite the opposite! 
+The more befuddled you are about something, the more likely that we will learn something together 
+(because I can assure you that your questions will make me think!).
+
+1. There is quite a lot of boilerplate required for Java programming, is there a reason for this?
+2. What is the difference between interfaces in Java and pure virtual functions in C++? (They achieve the same thing, but they feel so different IMO)
+3. One key feature of C++ is templates, is there an equivalent feature in Java since templates can be very powerful for OOP?
+4. After some searching, it seems like Java does not support multiple inheritance, however, when looking
+   at interfaces, it seems like a form of multiple inheritance can be implemented through interfaces, 
+   is this technically considered multiple inheritance or is it something different?
+5. What is the overhead like for using reflection as it seems to be a really powerful tool that can 
+   "introspect" on itself?
